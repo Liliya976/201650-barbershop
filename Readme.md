@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Лилия Ключанская](https://up.htmlacademy.ru/htmlcss/13/user/201650).
+* Студент: [Лилия Н Ключанская](https://up.htmlacademy.ru/htmlcss/13/user/201650).
 
 ---
 
